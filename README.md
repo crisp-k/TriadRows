@@ -16,10 +16,10 @@ for the least possible movement between harmonic structures.
 
 If C-Major (in first inversion) is followed by G-Major, we can voice lead it as follows:
 
-C-Major: C E G (1 3 5) -> G-Major: B D G (3 5 1)
-C -> B is in a single step
-E -> D is two half-steps (a whole step)
-G -> G requires no movement
+- **C-Major: C E G (1 3 5) -> G-Major: B D G (3 5 1)**
+- **C -> B is in a single step**
+- **E -> D is two half-steps (a whole step)**
+- **G -> G requires no movement**
 
 ## Implementation
 There are two files that acheive this purpose. The first `row.c`, utilizes simple 
